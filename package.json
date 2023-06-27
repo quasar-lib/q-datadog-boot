@@ -1,5 +1,5 @@
 {
-  "name": "@quasar-lib/q-datadog-boot",
+  "name": "@quasar-lib/quasar-app-extension-q-datadog-boot",
   "version": "1.0.0",
   "description": "Quasar Datadog Boot",
   "author": "Alex <alex@milyutin.work>",
